@@ -1,5 +1,6 @@
-let cek1= 'perubahan1'
+let cek1= 'perubahan111'
 
+alert('perubahan dari pemilik repo')
 alert('perubahan dari pemilik repo')
 
 console.log('perubahan dari branch coba')
@@ -18,3 +19,7 @@ alert('perubahan dari branch')
 alert('perubahan dari branch')
 alert('perubahan dari branch')
 alert('perubahan dari branch ceki ceki')
+
+
+
+alert('perubahan dari branch master')
