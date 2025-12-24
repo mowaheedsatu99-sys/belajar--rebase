@@ -7,3 +7,6 @@ console.log('perubahan dari kolaborator mowaheed')
 
 let cek = 'perubahan dari branch coba-lagi'
 console.log(cek)
+
+
+alert('perubahan dari branch')
