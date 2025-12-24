@@ -1,6 +1,7 @@
 let cek1= 'perubahan1'
 
 alert('perubahan dari pemilik repo')
+alert('perubahan dari pemilik repo')
 
 console.log('perubahan dari branch coba')
 console.log('perubahan dari kolaborator mowaheed')
