@@ -12,3 +12,8 @@ console.log(cek)
 alert('perubahan dari branch')
 alert('perubahan dari branch')
 alert('perubahan dari branch')
+
+
+alert('perubahan dari branch')
+alert('perubahan dari branch')
+alert('perubahan dari branch')
