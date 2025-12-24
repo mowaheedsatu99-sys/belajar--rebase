@@ -1,4 +1,4 @@
-let cek1= 'perubahan1'
+let cek1= 'perubahan111'
 
 alert('perubahan dari pemilik repo')
 alert('perubahan dari pemilik repo')
